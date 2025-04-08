@@ -9,6 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/netlify": "^6.2.5",
     "@storyblok/astro": "^6.1.1",
     "astro": "^5.6.1",
     "vite": "^6.2.5"
